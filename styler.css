@@ -6157,7 +6157,7 @@ header .header-traiger {padding: 9px;left: 20px;position: absolute;font-size: 23
 header .header-traiger:hover{ background-color:#f1f3f4 }
 .uk-light header .header-traiger {color:white}
 header #logo {position: absolute;left: 65px;}
-header #logo img {width: 119px;}
+header #logo img {width: 160px;}
 header #logo .logo-inverse {display: none;}
 .uk-light #logo img { display: none;}
 .uk-light #logo .logo-inverse {display: inline; }
