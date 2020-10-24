@@ -5466,7 +5466,7 @@ button.mark-as-read:hover {
   top: 0;
   z-index: 1000000;
   background: red;
-  background: url(../images/icon-play.svg) no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/limper2020/fzl@1.02/icon-play.svg) no-repeat;
   background-size: auto 50%;
   background-position: center;
 }
@@ -6700,7 +6700,7 @@ span.video-post-time , span.video-post-count{
   width: 100%;
   height: 100%;
   position: absolute;
-  background: url(../images/icon-play.svg) no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/limper2020/fzl@1.02/icon-play.svg) no-repeat;
   background-size: auto 40%;
   background-position: center;
   visibility: hidden;
